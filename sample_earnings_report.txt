@@ -1,0 +1,10 @@
+Company: Northstar Cloud Systems
+Period: Q2 FY2026
+
+Revenue: $2.40 billion, up 12% year over year; $2.22 billion in Q1 FY2026.
+Net income: $310 million; $280 million in Q1 FY2026.
+Operating margin: 21.5%; 20.8% in Q1 FY2026.
+Guidance: Q3 FY2026 revenue expected to be $2.45 billion to $2.52 billion, with operating margin of 21% to 22%.
+Risk: Management cited delayed enterprise deployments and higher data-center power costs as near-term headwinds.
+Risk: Two large customer renewals remain under negotiation, creating uncertainty in the second half.
+Outlook: The company expects full-year revenue growth of 10% to 12% and plans to increase infrastructure investment by approximately $150 million.
